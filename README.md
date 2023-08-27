@@ -1,6 +1,6 @@
-# Full Stack: React and Spring Boot
+# LENDit
 
-[<img src="images/react-spring-boot-grabber-thumbnail.png" alt="Full Stack: React and Spring Boot"  width="400" />](bit.ly/3EcIvFP)
+[<img src="images/react-spring-boot-grabber-thumbnail.png" alt="Final Destination for your book hunt"  width="400" />](bit.ly/3EcIvFP)
 
 
 ## React Installation Guides
@@ -10,7 +10,3 @@
 * [Mac](install-react-tools/mac/install-mac.md)
 
 * [Microsoft Windows](install-react-tools/ms-windows/install-ms-windows.md)
-
-## Source Code
-
-* [Source code](source-code)
